@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="furfel_list_icons">
+        <item>@drawable/ic_furfel</item>
+        <item>@drawable/star</item>
+        <item>@drawable/book</item>
+    </integer-array>
+</resources>

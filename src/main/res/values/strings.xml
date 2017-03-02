@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cute Coin Catcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="build">1.03</string>
+	<string name="loading">Loading...</string>
+	<string name="copyright">Copyright © 2013 Furfel. All rights reserved.</string>
+	<string name="title">Cute Coin Catcher Help</string>
+	<string name="aim">Thank you for playing Cute Coin Catcher!\nThe aim of the game is to collect as many coins as you can. What\'s also important, you must avoid the blob monster.</string>
+	<string name="thisyou">This is you.</string>
+	<string name="thisblob">This is the blob monster.</string>
+	<string name="points">You get this number of points for the following objects:</string>
+	<string name="gold">Gold coin - 1 point</string>
+	<string name="rainbow">Rainbow coin - 100 points</string>
+	<string name="bonuspoints">Candy coin - 50 points</string>
+	<string name="candies">Candies are bonuses which give you some help in gameplay. Every candy eaten adds 10 seconds special time.</string>
+	<string name="bluecandy">Blue candy freezes the blob monster. You still can\'t thouch the monster.</string>
+	<string name="redcandy">Red candy gives you protection. Monster can\'t do anything to you.</string>
+	<string name="modes">There are three gameplay modes:</string>
+	<string name="infmode">In the infinite mode you play as long as you can.</string>
+	<string name="timetrial">In time trial you can play only 90 seconds. If you are caught by the monster earlier than the time goes off, your score is not saved even if it\'s higher than least highest score.</string>
+	<string name="timetrialg">This mode has the same rules as time trial, but the only object you can collect are gold coins. There are no rainbow coins nor candies.</string>
+	<string name="controls">To control, tap or move your finger over this field. Both right and left field do the same.</string>
+	<string name="highscore">Hi-score:</string>
+
+	<string name="about_furfel">About Furfel</string>
+
+	<string-array name="furfel_list">
+		<item>More Furfel Apps</item>
+		<item>Rate this app</item>
+		<item>Privacy Policy</item>
+	</string-array>
+</resources>

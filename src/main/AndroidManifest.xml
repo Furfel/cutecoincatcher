@@ -3,10 +3,6 @@
     package="com.furfel.coincatcherfree"
     android:versionCode="13"
     android:versionName="1.03" >
-
-    <uses-sdk
-        android:minSdkVersion="11"
-        android:targetSdkVersion="14" />
 	
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
